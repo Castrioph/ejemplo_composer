@@ -1,5 +1,13 @@
 {
+  "name": "vicentemonfort/blog",
+  "repositories": [
+    {
+      "type":"vcs",
+      "url": "https://github.com/VicentMonfort/hola-mundo"
+    }
+  ],
+
   "require": {
-  "monolog/monolog": ">=1.23"
+  "vicentemonfort/hola-mundo": "dev-master"
   }
 }
